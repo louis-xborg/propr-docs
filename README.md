@@ -1,6 +1,6 @@
-# Propr Bot API Documentation
+# Propr API Docs
 
-Official documentation and SDKs for the [Propr](https://propr.xyz) trading bot API.
+Official documentation and SDKs for the [Propr](https://propr.xyz) API.
 
 ## Contents
 
