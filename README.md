@@ -2,8 +2,6 @@
 
 Official documentation and SDKs for the [Propr](https://propr.xyz) trading bot API.
 
-> **Why this repo?** The Propr website cannot be scraped by AI agents or documentation tools. This repo mirrors the bot API docs so you can feed them directly into your coding agent, IDE, or toolchain.
-
 ## Contents
 
 | Path | Description |
